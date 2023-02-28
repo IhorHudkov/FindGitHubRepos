@@ -1,6 +1,7 @@
 {
   "name": "find-react-repos",
   "version": "0.1.0",
+  "homepage": "https://ihorhudkov.github.io/FindGitHubRepos",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
