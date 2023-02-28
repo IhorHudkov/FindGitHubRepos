@@ -1,0 +1,17 @@
+.pagination {
+    margin-bottom: 115px;
+}
+.page_btn {
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    color: #000000;
+    padding: 13px;
+    cursor: pointer;
+}
+
+.active_page{
+    border-bottom: 3px solid #65B79A;
+}
